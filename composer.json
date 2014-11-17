@@ -1,0 +1,16 @@
+{
+    "name": "ni-jmatthiesen/Ext.ux.window.Notification",
+    "description": "Ext.ux.Router",
+    "type": "component",
+    "homepage": "https://github.com/brunotavares/Ext.ux.Router/",
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "files": [
+                "Router.js"
+            ]
+        }
+    }
+}
